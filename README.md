@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Artificial intelligence
 - 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ...Machine learning Model
-- 📫 How to reach me ...
+- 📫 How to reach me ...(usamaisrar0220@gmail.com),( https://www.linkedin.com/feed/ )
 
 <!---
 usamaisrar0220/usamaisrar0220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
